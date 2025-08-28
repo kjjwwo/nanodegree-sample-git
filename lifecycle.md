@@ -4,3 +4,5 @@
 - staged
 - modified
 - unmodified
+
+git commit message  convention
